@@ -2,6 +2,8 @@
 
 Coursera course: [HTML, CSS, and Javascript for Web Developers](https://www.coursera.org/learn/html-css-javascript-for-web-developers)
 
+Website is live at: https://gurpreet2003.github.io/Module-4-Coding-Assignment/
+
 **Let's write a little bit of Javascript programming code to practice what we've learned!
 Woohoo! :-)**
 
